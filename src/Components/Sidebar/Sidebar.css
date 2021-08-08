@@ -1,0 +1,12 @@
+.sidebar {
+    text-align: left;
+    width: 15%;
+    border: none;
+}
+
+.sidebar button{
+    width: 99%;
+    height: 3rem;
+    border-color: rgb(128, 128, 128);
+    border-width: 1px;
+}

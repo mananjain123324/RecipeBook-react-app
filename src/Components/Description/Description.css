@@ -1,0 +1,36 @@
+.description {
+    text-align: left;
+    width: 85%;
+    height: 100%;
+    margin: 1.5rem;
+    border: 1px solid black;
+    padding: 1rem;
+    border-radius: 15px;
+    background-color: rgb(240, 240, 240);
+}
+
+.description__title {
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.description__steps {
+    border-radius: 10px;
+    padding: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.253);
+    margin: 10px 0 10px 0;
+    font-size: 30px;
+}
+
+.description__ingredients {
+    border-radius: 10px;
+    padding: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.253);
+    margin: 10px 0 10px 0;
+    font-size: 30px;
+}
+
+.description__subtitle {
+    font-size:35px;
+    font-weight: 700;
+}
